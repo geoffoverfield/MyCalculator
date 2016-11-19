@@ -1,0 +1,200 @@
+c:\users\geoffoverfield01\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\geoffoverfield01\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\geoffoverfield01\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\geoffoverfield01\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\geoffoverfield01\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Main.resources
+c:\users\geoffoverfield01\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\geoffoverfield01\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\geoffoverfield01\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\geoffoverfield01\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.Main.resources
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Projects\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Projects\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Projects\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\Projects\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Projects\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Projects\C#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Projects\C#\Calculator\Calculator\obj\Debug\Calculator.Main.resources
+F:\Projects\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Projects\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Projects\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Projects\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Projects\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Desktop\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Desktop\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Desktop\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Desktop\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Desktop\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Desktop\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Desktop\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Desktop\C#\Calculator\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.0\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.0\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.0\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.0\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.0\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.0\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.0\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.0\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.0\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.1\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.1\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.1\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.1\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.2\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.2\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.2\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.2\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.2\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.1.2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.5\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.5\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.5\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.5\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.5\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.5\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.5\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.5\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator2.5\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.4.1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.4.1\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.4.1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.4.1\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.4.1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.4.1\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.4.1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.4.1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5.1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5.1\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5.1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5.1\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5.1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5.1\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5.1\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5.1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.5.1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.1\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.1\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.1\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.1\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.2\Calculator\obj\Debug\Calculator.csproj.ResolveComReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\obj\Debug\Calculator.csproj.ResolveComReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.6.3\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\obj\Debug\Calculator.csproj.ResolveComReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.csproj.ResolveComReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.Teach_Me___Algebra.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.Teach_Me___Arithmetic.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.Teach_Me___Exponents.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.Teach_Me___Logarithms.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.Teach_Me___Trigonometry.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.1\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.csproj.ResolveComReference.cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\bin\Debug\Calculator.exe
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.Teach_Me___Algebra.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.Teach_Me___Arithmetic.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.Teach_Me___Exponents.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.Teach_Me___Logarithms.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.Teach_Me___Trigonometry.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\Geoff\Documents\Visual Studio 2013\Projects\Calculator\Calculator2.7.2\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
